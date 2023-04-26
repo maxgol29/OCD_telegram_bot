@@ -9,7 +9,7 @@ import openai
 
 #OpenAI API key
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 print(openai.api_key)
 
